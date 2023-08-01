@@ -1,1 +1,1 @@
-1 glass
+glass=1
